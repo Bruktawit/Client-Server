@@ -1,3 +1,1 @@
-Name.......Bruktawit Teklay
-Id.........ATR/2447/09
-Section.....1
+This repository shows  a client-server architecture using python where the client and the server communicate using socket
